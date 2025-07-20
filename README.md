@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">º 📚 Técnico em Desenvolvimentos de Sistemas Web - Full-stack pelo SENAI<br>º 🎓 Ensino superior em Análise e Desenvolvimento Sistemas na Ahanguera<br>º  📖 Curso Java COMPLETO - Programação Orientada a Objetos + Projetos<br>º 🧠Estudando Java, Spring Boot/JPA, Spring Framework, MongoDB + Lógica de Programação <br>º 📌 Explorando novas tecnologias e soluções no desenvolvimento de software<br>º 🎲 Sempre desafiando meu conhecimento</p>
+<p align="left">º 📚 Técnico em Desenvolvimentos de Sistemas Web - Full-stack pelo SENAI<br>º 🎓 Cursando o ensino superior em Análise e Desenvolvimento Sistemas na Ahanguera<br>º  📖 Curso Java COMPLETO - Programação Orientada a Objetos + Projetos<br>º 🧠Estudando Java, Spring Boot/JPA, Spring Framework, MongoDB + Lógica de Programação <br>º 📌 Explorando novas tecnologias e soluções no desenvolvimento de software<br>º 🎲 Sempre desafiando meu conhecimento</p>
 
 ###
 
